@@ -1,2 +1,1 @@
-# Pxe-Server
-Pxe Server (Multi Boot Os Installation) Via Ftp
+# Pxe-Server (Multi Boot Os Installation) Via Ftp
